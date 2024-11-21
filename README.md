@@ -21,7 +21,7 @@ The app supports:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone git@github.com:VuTheDuyet/Product-Search-Project.git
 2. Navigate to the project directory:
 cd <repository-name>
 3. Install dependencies:
